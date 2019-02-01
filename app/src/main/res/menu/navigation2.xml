@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/itemRequest"
+            android:icon="@drawable/ic_request"
+            android:title="Request"/>
+
+    <item
+            android:id="@+id/itemHandle"
+            android:icon="@drawable/ic_handle"
+            android:title="Handle"/>
+
+    <item
+            android:id="@+id/itemComplete"
+            android:icon="@drawable/ic_complete"
+            android:title="Complete"/>
+</menu>
